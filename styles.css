@@ -47,3 +47,16 @@ h1 {
   width: 90%;
   padding-left: 30px;
 }
+
+@media (min-width:375px){
+    .content{
+        /* margin-left: 400px auto; */
+        /* margin-right: 400px auto; */
+        width:400px;
+    }
+    .attribution{
+        margin-left:500px;
+        margin-right: 400px;
+        width:400px;
+    }
+}
