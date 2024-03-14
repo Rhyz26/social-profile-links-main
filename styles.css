@@ -18,7 +18,6 @@ img {
   border-radius: 100%;
   padding-left: 15px;
   margin-bottom: 10px;
-  /* padding-right: 10px; */
 }
 .content {
   background-color: hsl(0, 0%, 12%);
@@ -27,8 +26,7 @@ img {
   margin-top: 40px;
   max-width: 100%;
   padding-left: 40px;
-  /* display: flex; */
-  /* flex-direction: column; */
+
   padding-top: 20px;
   padding-bottom: 20px;
   border-radius: 1rem;
@@ -38,25 +36,20 @@ p {
   width: 90%;
   text-align: center;
   font-weight: 400;
-  /* margin-left:5%; */
   border-radius: 0.5rem;
-  /* margin-left: auto; */
-  /* margin-right:auto; */
 }
 h1 {
   width: 90%;
   padding-left: 30px;
 }
 
-@media (min-width:375px){
-    .content{
-        /* margin-left: 400px auto; */
-        /* margin-right: 400px auto; */
-        width:400px;
-    }
-    .attribution{
-        margin-left:500px;
-        margin-right: 400px;
-        width:400px;
-    }
+@media (min-width: 375px) {
+  .content {
+    width: 400px;
+  }
+  .attribution {
+    margin-left: 500px;
+    margin-right: 400px;
+    width: 400px;
+  }
 }
