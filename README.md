@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Rhyz26/social-profile-links-main.git)
-- Live Site URL: [Add live site URL here](https://social-profile-links-main.vercel.app/)
+- Solution URL: [https://github.com/Rhyz26/social-profile-links-main.git]
+- Live Site URL: [https://social-profile-links-main.vercel.app/]
 
 ## My process
 I started by writing out the HTML, followed with the designing of the html with css, then ended with adding media queries to make the website responsive
